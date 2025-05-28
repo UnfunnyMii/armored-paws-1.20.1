@@ -1,6 +1,7 @@
 package com.unfunnymii.entity;
 
 import com.unfunnymii.ArmadilloBackport;
+import com.unfunnymii.entity.armadillo.ArmadilloEntity;
 import net.fabricmc.fabric.api.object.builder.v1.entity.FabricEntityTypeBuilder;
 import net.minecraft.entity.EntityDimensions;
 import net.minecraft.entity.EntityType;
